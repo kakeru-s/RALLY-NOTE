@@ -1,0 +1,14 @@
+RALLY NOTE iPad単体テスト用（GitHub Pages）
+
+1. GitHubで新しいリポジトリを作成（例: rally-note-test）。
+2. このフォルダ内の index.html / styles.css / script.js / engine.mjs / stats.mjs / service.mjs / .nojekyll をリポジトリの最上位にアップロード。
+3. Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save。
+4. 公開後に表示される https://<ユーザー名>.github.io/rally-note-test/ をiPadのSafariで開く。
+5. Safariの共有メニュー → ホーム画面に追加。
+
+注意:
+- GitHub Pagesは公開Webサイトです。試合動画や個人情報をリポジトリにアップロードしないでください。
+- 試合データはiPadのブラウザ内に保存され、Macと自動同期されません。
+- Googleフォトの共有URLだけでは直接再生できません。YouTubeかiPadに保存した動画を使用してください。
+- iPadの端末動画はブラウザに再選択が必要な場合があります。
+- 公開URLはGitHubでの公開操作後に発行されます。このZIPだけではURLは発行されません。
